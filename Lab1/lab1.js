@@ -19,6 +19,7 @@
 
 /**
  * Student represents an individual student in the university system
+ * //Change to my user
  * @class Student
  * @param {string} name - Student's full name
  * @param {string} faculty - Student's faculty/department
